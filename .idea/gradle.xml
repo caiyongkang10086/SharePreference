@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FilePersistence" />
+            <option value="$PROJECT_DIR$/litepal" />
             <option value="$PROJECT_DIR$/sqlite" />
           </set>
         </option>
