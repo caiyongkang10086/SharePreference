@@ -16,3 +16,4 @@ rootProject.name = "SharePerference"
 include ':FilePersistence'
 include ':sqlite'
 include ':litepal'
+include ':databaseprovider'

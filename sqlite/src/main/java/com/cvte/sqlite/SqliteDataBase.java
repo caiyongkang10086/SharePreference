@@ -29,7 +29,6 @@ public class SqliteDataBase extends SQLiteOpenHelper {
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
         sqLiteDatabase.execSQL(CreateBookTable);
         sqLiteDatabase.execSQL(CreateCategoryTable);
-        Toast.makeText(mContext,"Create SQlite success", Toast.LENGTH_SHORT).show();
     }
 
     @Override
